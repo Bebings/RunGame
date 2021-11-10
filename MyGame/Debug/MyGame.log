@@ -1,0 +1,12 @@
+﻿  MyGame.cpp
+D:\0F\VsProject\RunGame\MyGame\MyGame.cpp(47,16): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\0F\VsProject\RunGame\MyGame\MyGame.cpp(47,12): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\0F\VsProject\RunGame\MyGame\MyGame.cpp(48,17): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\0F\VsProject\RunGame\MyGame\MyGame.cpp(48,13): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\0F\VsProject\RunGame\MyGame\MyGame.cpp(49,17): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\0F\VsProject\RunGame\MyGame\MyGame.cpp(49,13): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\0F\VsProject\RunGame\MyGame\MyGame.cpp(62,33): warning C4244: “参数”: 从“size_t”转换到“float”，可能丢失数据
+D:\0F\VsProject\RunGame\MyGame\MyGame.cpp(62,26): warning C4244: “参数”: 从“size_t”转换到“float”，可能丢失数据
+D:\0F\VsProject\RunGame\MyGame\MyGame.cpp(66,33): warning C4244: “参数”: 从“size_t”转换到“float”，可能丢失数据
+D:\0F\VsProject\RunGame\MyGame\MyGame.cpp(66,26): warning C4244: “参数”: 从“size_t”转换到“float”，可能丢失数据
+  MyGame.vcxproj -> D:\0F\VsProject\RunGame\Debug\MyGame.exe
